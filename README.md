@@ -5,16 +5,12 @@
 🛠️ Making Mobile/PC games using Unity2D/3D and C#. Currently working on 2D game **AiWorld**  
 🔗 Learn more at: [@madrexgames](https://twitter.com/madrexgames)
 
----
-
 ## 🌐 Social Media
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreantoniobezerra/) 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/madrexgames) 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andreantoniobr@gmail.com) 
 [![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/andreantoniobr)
-
----
 
 ## 🧰 Skills
 
@@ -29,8 +25,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc)
-
----
 
 ## 📊 GitHub Stats
 
