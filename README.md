@@ -35,6 +35,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andreantoniobr&theme=transparent&bg_color=ffffff&border_color=dddddd&show_icons=true&icon_color=0A66C2&title_color=333&text_color=000&hide_title=true&hide=stars" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreantoniobr&layout=compact&bg_color=ffffff&title_color=333333&text_color=000000&border_color=dddddd" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=andreantoniobr&theme=transparent&bg_color=ffffff&border_color=dddddd&show_icons=true&icon_color=0A66C2&title_color=333&text_color=000&hide_title=true&hide=stars" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreantoniobr&layout=compact&bg_color=ffffff&title_color=333333&text_color=000000&border_color=dddddd" width="38%" />
 </div>
